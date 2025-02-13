@@ -1,5 +1,3 @@
-ksdnkndkjgf
-
 
 👋 Hi, I’m Maria Clement and I am a senior computer science student at UIC. 
 
