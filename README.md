@@ -8,9 +8,9 @@ I am a senior at UIC currently taking Intro to Machine Learning, Computer Algori
 
 Things I am working on:
 - Studying for my CompTIA A+ recertification
-- Making Plans to get Network+ certificate.
+- Making Plans to be Network+ certified
 - Building a full-stack application in Java
-- Redesigning my <a href="https://mclem6.github.io/> portfolio site </a>
+- Redesigning and adding animations to my [portfolio website](https://mclem6.github.io/)
 
 <!---
 mclem6/mclem6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
