@@ -9,10 +9,9 @@ I am a senior at UIC, and I am currently taking Intro to Machine Learning, Compu
 - I am finding my way around Android Studio and can't wait to develop my first mobile application this semester. 
 
 Things I am working on:
-- Studying for my CompTIA A+ recertification
-- Making Plans to be Network+ certified
+- Becoming Network+ certified
 - Building a full-stack application in Java
-- Redesigning and adding animations to my [portfolio website](https://mclem6.github.io/)
+  
 
 <!---
 mclem6/mclem6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
