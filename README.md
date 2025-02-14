@@ -11,7 +11,14 @@ Things I am working on:
 - Becoming Network+ certified
 - Building a full-stack application in Java
   
+Skills
+- Java, JavaFX,
+- Python, Pandas
+- C++, C
+- embedded systems (Arduino Uno)
+- Linux OS
 
+  
 <!---
 mclem6/mclem6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
