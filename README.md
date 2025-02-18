@@ -20,6 +20,7 @@ Skills
 - C++, C
 - embedded systems (Arduino Uno)
 - Linux OS
+- PowerBI, DAX
 
   
 <!---
