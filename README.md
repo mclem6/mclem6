@@ -5,7 +5,7 @@ I am currently a senior at the University of Illinois in Chicago (UIC), pursuing
 
 I decided to pursue a degree in computer science because technology is the backbone of accessibility, and I want to be a part of leveraging it to solve problems that impact the quality of essential services. I aim to build a career working with companies that develop and maintain digital products that empower individuals to lead better and healthier lives. 
 
-I am particularly interested in mastering Java and becoming a Java full-stack developer. I enjoy learning about designing and developing user-friendly interfaces and best practices in writing maintainable and scalable back-end code. I am also intrigued by managing and processing big data, especially data that provide meaningful insights and lead to transformative solutions. 
+I am particularly interested in mastering Java and becoming a Java full-stack developer. I enjoy learning about designing and developing user-friendly interfaces and best practices in writing maintainable and scalable back-end code. I am also intrigued by managing and processing big data, especially data that provide meaningful insights and lead to impactful solutions. 
 
 Things I am working on:
 - I just built my first learning model implementing the ID3 algorithm using Python.
