@@ -1,13 +1,16 @@
 
-👋 Hi, I’m Maria Clement.
+Hi, I’m Maria.
 
-I am a senior at UIC and am taking Intro to Machine Learning, Computer Algorithms, and Software Development of Mobile Applications this semester
+I am currently a senior at the University of Illinois in Chicago (UIC) where I am pursuing a Bachelor of Science in Computer Science. This semester, I am enrolled in Introduction to Machine Learning, Computer Algorithms, and Software Development of Mobile Applications which are electives I chose and excited to dive into as I continue to explore the vast field of computer science.
 
-I decided to pursue a degree in computer science after stumbling upon the first CS50 Harvard lecture on YouTube. I fell in love with this new way of thinking, of breaking down big problems into small, manageable, essential parts (ie decomposition) and, through this process, finding a solution for the whole. Since then, I have applied this method to all areas of my life and have seen its transformative powers!
+I decided to pursue a degree in computer science because technology is the backbone of accessibility, and I want to be a part of leveraging it to improve the quality of life. My goal is to build a career working with companies that are dedicated to
+developing and maintaining digital products that provide real value for under-represented groups of people. 
+
+I am particularly interested in learning and becoming a full-stack developer in Java. I enjoy learning about the design and development of user-friendly interfaces as well as best practices in writing maintainable and scalable back-end code. 
 
 Things I am working on:
-- I just built my first learning model implementing the ID3 algorithm using Python! 
-- I am finding my way around Android Studio and can't wait to develop my first mobile application this semester. 
+- I just built my first learning model implementing the ID3 algorithm using Python.
+- I am finding my way around Android Studio and can't wait to develop my first mobile application.
 - Becoming Network+ certified
 - Building a full-stack application in Java
   
