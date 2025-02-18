@@ -22,6 +22,8 @@ Skills
 - Linux OS
 - PowerBI, DAX
 
+
+I am always open to collaborating and networking, don't hesitate to connect me on LinkedIn!
   
 <!---
 mclem6/mclem6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
