@@ -3,8 +3,8 @@ Hi, I’m Maria.
 
 I am currently a senior at the University of Illinois in Chicago (UIC) where I am pursuing a Bachelor of Science in Computer Science. This semester, I am enrolled in Introduction to Machine Learning, Computer Algorithms, and Software Development of Mobile Applications which are electives I chose and excited to dive into as I continue to explore the vast field of computer science.
 
-I decided to pursue a degree in computer science because technology is the backbone of accessibility, and I want to be a part of leveraging it to improve the quality of life. My goal is to build a career working with companies that are dedicated to
-developing and maintaining digital products that provide real value for under-represented groups of people.
+I decided to pursue a degree in computer science because technology is the backbone of accessibility, and I want to be a part of leveraging it to remove barriers that impact the quality of life. My goal is to build a career working with companies that are dedicated to
+developing and maintaining digital products that provide value for under-represented groups.
 
 I am particularly interested in learning and becoming a full-stack developer in Java. I enjoy learning about the design and development of user-friendly interfaces as well as best practices in writing maintainable and scalable back-end code. I am also intrigued by managing and processing big data especially data that provide meaningful insights and lead to transformative solutions. 
 
