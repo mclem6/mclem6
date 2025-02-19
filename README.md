@@ -13,13 +13,13 @@ Things I am working on:
 - Becoming Network+ certified
 - Building a full-stack application in Java
   
-Skills
-- Java, JavaFX,
-- Python, Pandas
-- C++, C
-- embedded systems (Arduino Uno)
-- Linux OS
-- PowerBI, DAX
+Languages
+- Java, Python, C++, C, DAX
+
+Other
+- Pandas, JavaFX, 
+- PowerBI, Linux OS, embedded systems (Arduino Uno)
+  
 
 
 I am always open to collaborating and networking, don't hesitate to connect me on LinkedIn!
