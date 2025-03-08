@@ -14,7 +14,7 @@ Things I am working on:
 - Building a full-stack application in Java
   
 Languages
-- Java, Python, C++, C, DAX
+- Java, Python, C++, C, JavaScript, CSS, HTML, DAX
 
 Other
 - Pandas, JavaFX, 
