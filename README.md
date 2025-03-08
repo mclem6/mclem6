@@ -8,7 +8,7 @@ I decided to pursue a degree in computer science because technology is super coo
 Currently I am working on mastering Java and becoming a Java full-stack developer. I enjoy learning about designing and developing user-friendly interfaces and best practices in writing maintainable and scalable back-end code. I am also intrigued by managing and processing data, especially data that provide meaningful insights and can lead to impactful solutions. 
 
 Things I am working on:
-- Diving deeper into Pandas and Numphy to create learning models such as the ID3 decision tree using Python.
+- Tinkering with Pandas and NumPy to create machine learning models using algorithms like the ID3 decision tree and logistic regression.
 - Learning how to use Android Studio and I can't wait to develop my first mobile application.
 - Becoming Network+ certified
 - Building a full-stack application in Java
