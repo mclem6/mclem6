@@ -12,10 +12,10 @@ Languages
 - Java, Python, C++, C, JavaScript, CSS, HTML, DAX
 
 Tools
-- Pandas, JavaFX, CalendarFx, SQLite, PowerBI
+- Spring Boot, PostgreSQL, React, Pandas, TensorFlow, JavaFX, CalendarFx, SQLite, Power BI
 
 Others
-- Linux OS, Android OS, Arduino Uno
+- Linux (Ubuntu), Android, Arduino Uno
 
 I am always open to collaborating and networking, don't hesitate to contact me on LinkedIn!
   
