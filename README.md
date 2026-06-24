@@ -1,7 +1,7 @@
 
 Hi, I’m Maria!
 
-I decided to pursue a degree in computer science because technology is super cool! I am consistently inspired by how it is leveraged to increase accessibility, improve the quality of service, and connect people all over the world. My dream is to build a career working with companies that develop and maintain digital products that empower individuals to lead better and healthier lives. 
+I decided to pursue a degree in computer science because technology is super cool! I am consistently inspired by how it is leveraged to increase accessibility, improve the quality of service, and connect people all over the world. My goal is to build a career working with companies that develop and maintain digital products that empower individuals to lead better and healthier lives. 
 
 I'm currently diving deep into Java to build both desktop and Android applications. I’m especially passionate about crafting intuitive user interfaces and writing clean, scalable back-end code. 
 
